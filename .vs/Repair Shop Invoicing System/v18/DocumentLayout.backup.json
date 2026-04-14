@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|c:\\users\\dell\\riderprojects\\repair shop invoicing system\\repairshop.api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|solutionrelative:repairshop.api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|c:\\users\\dell\\riderprojects\\repair shop invoicing system\\repairshop.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|solutionrelative:repairshop.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CE4F11-13E9-4841-B4BF-F3BDA8C2A19D}|RepairShop.Repository\\RepairShop.Repository.csproj|c:\\users\\dell\\riderprojects\\repair shop invoicing system\\repairshop.repository\\config\\invoice-config\\invoiceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CE4F11-13E9-4841-B4BF-F3BDA8C2A19D}|RepairShop.Repository\\RepairShop.Repository.csproj|solutionrelative:repairshop.repository\\config\\invoice-config\\invoiceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|c:\\users\\dell\\riderprojects\\repair shop invoicing system\\repairshop.api\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|solutionrelative:repairshop.api\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|c:\\users\\dell\\riderprojects\\repair shop invoicing system\\repairshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|solutionrelative:repairshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|c:\\users\\dell\\riderprojects\\repair shop invoicing system\\repairshop.api\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27AD531-9022-4EEC-B366-115EA295BD83}|RepairShop.Api\\RepairShop.Api.csproj|solutionrelative:repairshop.api\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0E572D-9CB8-4B7A-A159-E22990117DCE}|RepairShop.core\\RepairShop.core.csproj|c:\\users\\dell\\riderprojects\\repair shop invoicing system\\repairshop.core\\entity\\orders\\repairinvoices\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0E572D-9CB8-4B7A-A159-E22990117DCE}|RepairShop.core\\RepairShop.core.csproj|solutionrelative:repairshop.core\\entity\\orders\\repairinvoices\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF03119-2C0D-4817-B034-7F0475E42062}|RepairShop.Services\\RepairShop.Services.csproj|c:\\users\\dell\\riderprojects\\repair shop invoicing system\\repairshop.services\\invoiceservice\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF03119-2C0D-4817-B034-7F0475E42062}|RepairShop.Services\\RepairShop.Services.csproj|solutionrelative:repairshop.services\\invoiceservice\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0E572D-9CB8-4B7A-A159-E22990117DCE}|RepairShop.core\\RepairShop.core.csproj|c:\\users\\dell\\riderprojects\\repair shop invoicing system\\repairshop.core\\service.content\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0E572D-9CB8-4B7A-A159-E22990117DCE}|RepairShop.core\\RepairShop.core.csproj|solutionrelative:repairshop.core\\service.content\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Repository\\Config\\Invoice-config\\InvoiceConfiguration.cs",
+              "RelativeDocumentMoniker": "RepairShop.Repository\\Config\\Invoice-config\\InvoiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Repository\\Config\\Invoice-config\\InvoiceConfiguration.cs",
+              "RelativeToolTip": "RepairShop.Repository\\Config\\Invoice-config\\InvoiceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T21:47:43.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "RepairShop.Api\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "RepairShop.Api\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA7wCMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T21:36:29.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.core\\Entity\\Orders\\RepairInvoices\\Invoice.cs",
+              "RelativeDocumentMoniker": "RepairShop.core\\Entity\\Orders\\RepairInvoices\\Invoice.cs",
+              "ToolTip": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.core\\Entity\\Orders\\RepairInvoices\\Invoice.cs",
+              "RelativeToolTip": "RepairShop.core\\Entity\\Orders\\RepairInvoices\\Invoice.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T21:25:28.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RepairShop.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Program.cs",
+              "RelativeToolTip": "RepairShop.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T21:10:30.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "RepairShop.Api\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "RepairShop.Api\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvz8AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:42:49.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.core\\Service.Content\\IInvoiceService.cs",
+              "RelativeDocumentMoniker": "RepairShop.core\\Service.Content\\IInvoiceService.cs",
+              "ToolTip": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.core\\Service.Content\\IInvoiceService.cs",
+              "RelativeToolTip": "RepairShop.core\\Service.Content\\IInvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:39:30.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Dtos\\InvoiceDto.cs",
+              "RelativeDocumentMoniker": "RepairShop.Api\\Dtos\\InvoiceDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Dtos\\InvoiceDto.cs",
+              "RelativeToolTip": "RepairShop.Api\\Dtos\\InvoiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:02:40.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Services\\InvoiceService\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "RepairShop.Services\\InvoiceService\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Services\\InvoiceService\\InvoiceService.cs",
+              "RelativeToolTip": "RepairShop.Services\\InvoiceService\\InvoiceService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:59:55.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "RepairShop.Api\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\DELL\\RiderProjects\\Repair Shop Invoicing System\\RepairShop.Api\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "RepairShop.Api\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:56:21.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

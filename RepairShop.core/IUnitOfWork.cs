@@ -1,0 +1,11 @@
+﻿using RepairShop.core.Repository.contrent;
+
+namespace RepairShop.core;
+
+public interface IUnitOfWork:IAsyncDisposable
+{
+    IGenericRepository<TEntity>Repository<TEntity>()where TEntity:BaseEntity;
+    
+    Task<int> CompleteAsync();
+}
+
